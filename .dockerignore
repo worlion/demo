@@ -1,0 +1,8 @@
+target
+.git
+.idea
+*.iml
+*.md
+*.postman_collection.json
+# VSCode settings
+.vscode/
